@@ -5,15 +5,3 @@ str = input()
 
 strRev = str[::-1]
 str = strRev
-print("\nReverse")
-print("\nReverse")
-print("\nReverse")
-print("\nReverse")
-print("\nReverse")
-print("\nReverse")
-print("\nReverse")
-print("\nReverse")
-print("\nReverse")
-print("\nReverse")
-print("\nReverse")
-print("\nReverse")
