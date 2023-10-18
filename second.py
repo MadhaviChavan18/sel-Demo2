@@ -9,5 +9,8 @@ if temp==rev:
      print(" palindrome ")
 else:
      print("Not palindrome")
+     print("Not palindrome")
+     print("Not palindrome")
+     print("Not palindrome")
 
 

@@ -8,3 +8,7 @@ for j in range(1,11): #i for vartical nos
     for k in range(1,21): # j for horizonatal nos
         print(j*k,end="\t")
     print("\n")
+    print("\n")
+    print("\n")
+    print("\n")
+    print("\n")
